@@ -5,7 +5,7 @@ public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("你好Git");
 		System.out.println("犯个错吧");
-		System.out.prinltn("我进化了");
+		System.out.println("我进化了");
 	}
 	
 }
